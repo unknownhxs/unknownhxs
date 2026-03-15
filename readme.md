@@ -1,6 +1,8 @@
-# <p align="center">
-  <img src="https://share.creavite.co/69b67564e207736a321be5dd.gif" alt="HXS's banner" width="700" height="150"/>
+<p align="center">
+  <img src="https://share.creavite.co/69b67564e207736a321be5dd.gif" alt="HXS's banner" width="900" height="250"/>
 </p>
+
+
 <p align="center">
   <img src="https://github.com/unknownhxs.png" width="64" style="border-radius:50%;" alt="HXS GitHub PFP" />
 </p>
