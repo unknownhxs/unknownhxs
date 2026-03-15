@@ -1,13 +1,15 @@
 <p align="center">
-  <img src="https://share.creavite.co/69b67564e207736a321be5dd.gif" alt="HXS's banner" width="900" height="250"/>
+  <img src="https://share.creavite.co/69b67564e207736a321be5dd.gif" alt="HXS banner" width="900" />
 </p>
 
 
 <p align="center">
-  <img src="https://github.com/unknownhxs.png" width="64" style="border-radius:50%;" alt="HXS GitHub PFP" />
+  <a href="https://github.com/unknownhxs">
+    <img src="https://github.com/unknownhxs.png" width="64" alt="HXS GitHub profile picture" />
+  </a>
 </p>
 <p align="center">
-  <a href="mailto:tonmail@example.com">
+  <a href="mailto:hxs.idkhxs.com">
     <img src="https://api.iconify.design/fa-solid/envelope.svg?color=%23ffffff" width="12" alt="email" />
   </a>
   &nbsp;
@@ -15,8 +17,17 @@
     <img src="https://api.iconify.design/fa6-brands/discord.svg?color=%23ffffff" width="12" alt="discord" />
   </a>
   &nbsp;
-  <a href="https://x.com/TON_PSEUDO_X">
+  <a href="https://x.com/HxsUnk">
     <img src="https://api.iconify.design/fa6-brands/x-twitter.svg?color=%23ffffff" width="12" alt="x" />
+  </a>
+</p>
+<p align="center">
+<a href="mailto:hxs@idkhxs.com">Email</a>
+  •
+  <a href="https://discord.com/users/1368556179600445531">Discord</a>
+  •
+  <a href="https://x.com/HxsUnk">X</a>
+
   </a>
   <p align="center" style='font-size: 16px;'>𝙷𝚎𝚢! 𝙸'𝚖 𝙷𝚇𝚂, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚢𝚘𝚞</p>
 </p>
