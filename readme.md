@@ -1,4 +1,6 @@
-# ![banner](https://share.creavite.co/69b67564e207736a321be5dd.gif "HXS's banner")
+# <p align="center">
+  <img src="https://share.creavite.co/69b67564e207736a321be5dd.gif" alt="HXS's banner" width="700" height="150"/>
+</p>
 <p align="center">
   <img src="https://github.com/unknownhxs.png" width="64" style="border-radius:50%;" alt="HXS GitHub PFP" />
 </p>
@@ -26,4 +28,6 @@
 
 <h4 align="center">⇝ Stats</h4>
 
-[![HXS's GitHub stats](https://github-readme-stats.vercel.app/api?username=unknownhxs)](https://github.com/unknownhxs)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=unknownhxs" alt="HXS's GitHub stats" width="350" height="150"/>
+</p>
