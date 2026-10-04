@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/unknownhxs">
+  <a href="https://github.com/78ef">
     <img src="https://github.com/unknownhxs.png" width="64" alt="HXS GitHub profile picture"/>
   </a>
 </p>
@@ -23,7 +23,7 @@
   •
   <a href="https://x.com/HxsUnk">X</a>
 
-  <p align="center" style='font-size: 16px;'>𝙷𝚎𝚢! 𝙸'𝚖 𝙷𝚇𝚂, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚢𝚘𝚞</p>
+  <p align="center" style='font-size: 16px;'>𝙷𝚎𝚢! 𝙸'𝚖 Sans Limites, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚖𝚎𝚎𝚝 𝚢𝚘𝚞</p>
 </p>
 
 
