@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="mailto:hxs.idkhxs.com">
+  <a href="mailto:contact@lupara.eu">
     <img src="https://api.iconify.design/fa-solid/envelope.svg?color=%23ffffff" width="12" alt="email"/>
   </a>
   &nbsp;
